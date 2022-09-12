@@ -22,18 +22,18 @@ def nextPermutation( arr):
         return arr
 
 
-seed_words_test = {1:'abandon',
-2:'ability',
-3:'ask',
-4:'asdfasdfasdf',
-5:'above',
-6:'absent',
-7:'absorb',
-8:'abstract',
-9:'absurd',
-10:'abuse',
-11:'access',
-12:'accident'}
+seed_words_test = {1:'answer',
+2:'trip',
+3:'engine',
+4:'wear',
+5:'pilot',
+6:'ready',
+7:'popular',
+8:'fruit',
+9:'spider',
+10:'eye',
+11:'drift',
+12:'manage'}
 
 
 EXTENSION_PATH = "" #enter the path to the metamask .crx file here
